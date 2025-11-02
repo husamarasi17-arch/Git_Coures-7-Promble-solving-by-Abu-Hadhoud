@@ -2,4 +2,4 @@
 For Learing github &amp; hib 
 
 
-## Learing a new thing 
+## Importent Notes 
